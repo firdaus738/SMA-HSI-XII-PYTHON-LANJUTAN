@@ -1,0 +1,12 @@
+=== HASIL POLLING ===
+Python : 1 suara (33.33%)
+JavaScript : 0 suara (0.00%)
+Java : 0 suara (0.00%)
+C++ : 0 suara (0.00%)
+Windows : 1 suara (33.33%)
+macOS : 0 suara (0.00%)
+Linux : 0 suara (0.00%)
+Argentina : 1 suara (33.33%)
+Prancis : 0 suara (0.00%)
+Brasil : 0 suara (0.00%)
+Jerman : 0 suara (0.00%)
